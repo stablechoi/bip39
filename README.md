@@ -4,6 +4,10 @@
 
 bip39 mnemonic generator
 
+<!-- USAGE -->
+
+## Usage
+
 ```
 $ node bip39.js
 ```
